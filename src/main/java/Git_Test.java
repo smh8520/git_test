@@ -9,5 +9,7 @@ public class Git_Test {
         System.out.println("hello git");
         //创建本地仓库,add,commit,创建分支,切换分支,合并分支,解决冲突
         //切换版本
+        //创建本地仓库,add,commit,创建分支,切换分支,合并分支,解决冲突
+        //切换版本
     }
 }
